@@ -1,0 +1,11 @@
+Pretendemos alcanzar los siguientes objetivos en el desarrollo de las aplicaciones
+
+
+1- Generar un framework de trabajo propio adaptando las mejores prácticas de las metodologías ágiles. Vamos a basar nuestra adaptación en prácticas de Kanban, Scrum, EssUP, XP, etc. Pretendemos tomar dimensión y adaptar las buenas prácticas de acuerdo al contexto en el cual nos encontramos, guiándonos por el principio K.I.S.S.
+
+2- Conocer qué herramientas se encuentran en el mercado, conocer sus ventajas y limitaciones de acuerdo al contexto. Poder tomar decisiones de elección en costo/beneficio de acuerdo a contextos enterprise o de pyme.
+
+3- Desarrollar aplicaciones que cumplan la funcionalidad planteada por el cliente sin enfocarnos en exceso en detalles como calidad y performance, debido a que se plantea asimilar los conceptos aprendidos en la carrera y poder llevar la teoría a la práctica. 
+
+4- Lograr conocer la capacidad de trabajo en equipo, las limitaciones y los problemas que lleva el desarrollo de software mediante la realización de retrospectivas.
+
